@@ -1,2 +1,3 @@
 # hello_world
-my first repository
+my first Repository
+Name: Jeorme Marshall J
